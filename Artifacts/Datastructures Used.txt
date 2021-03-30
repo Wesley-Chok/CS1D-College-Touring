@@ -1,0 +1,4 @@
+Datastructures Used:
+Vector - QVector<QString> selectedCampuses: vector used to hold the campuses that the user has selected.
+Queue - QQueue<QString> sortedCampuses: queue in sorted in order using the recursion function.
+Stack - QStack<Souvenir> souvenirCart: stack holding the souvenir that the student has purchased.

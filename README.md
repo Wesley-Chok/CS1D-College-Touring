@@ -1,1 +1,2 @@
-# CS1D-College-Touring
+# CS1D-College-Touring-Project
+CS1D College Touring Project
