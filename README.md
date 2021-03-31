@@ -13,3 +13,17 @@ Students decide their desired college tour plan based off of four tour plans. To
 ![Imgur image](https://imgur.com/uZglvUk.jpg)
 ![Imgur image](https://imgur.com/xSQcqWe.jpg)
 ![Imgur image](https://imgur.com/62PSDAG.jpg)
+![Imgur image](https://imgur.com/HhBcfVl.jpg)
+
+### Deployment
+Built and ran in Qt
+
+### Built with
+
+* [Qt](https://www.qt.io) - Graphical User Interface
+* [SQLite](https://www.sqlite.org/index.html) - Database engine
+* [DB Browser](http://sqlitebrowser.org) - Database browser to easily use the database
+
+## Acknowledgments
+
+* Jerry Lebowitz - Professor at Saddleback College
