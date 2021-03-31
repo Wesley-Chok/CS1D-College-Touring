@@ -11,3 +11,5 @@ Students decide their desired college tour plan based off of four tour plans. To
 
 ### Pictures
 ![Imgur image](https://imgur.com/uZglvUk.jpg)
+![Imgur image](https://imgur.com/xSQcqWe.jpg)
+![Imgur image](https://imgur.com/62PSDAG.jpg)
