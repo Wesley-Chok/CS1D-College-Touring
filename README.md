@@ -24,6 +24,3 @@ Built and ran in Qt
 * [SQLite](https://www.sqlite.org/index.html) - Database engine
 * [DB Browser](http://sqlitebrowser.org) - Database browser to easily use the database
 
-## Acknowledgments
-
-* Jerry Lebowitz - Professor at Saddleback College
