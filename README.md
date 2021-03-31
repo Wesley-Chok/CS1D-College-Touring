@@ -9,4 +9,4 @@ Students decide their desired college tour plan based off of four tour plans. To
 - Qt's push button's are used in order for the admin or student to navigate through the program
 - To calculate the distance between campuses and total for souvenirs, recursion and basic arithmetic shall be implemented
 
-!(image)[https://ibb.co/F5YYRwB]
+!(Imgur image)[https://imgur.com/uZglvUk]
